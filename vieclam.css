@@ -1,0 +1,194 @@
+.row .search{
+	background: #2944c1 !important;
+}
+.row .search .jobs{
+	color: #fff !important;
+	line-height: 36px;
+    font-size: 30px;
+      font-family: Montserrat,sans-serif;
+}
+.row .browse{
+	font-family: initial;
+	font-size: 20px;
+	color: #728afb !important;
+}
+
+.page{
+	    background: #eff2f9 !important;
+	/*height: 220px;*/
+}
+.row .one .trungtamone{
+	background: white !important;
+	border-radius: 10px;
+/*	height: 680px;*/
+}
+.row .two{
+	/*background: red !important;*/
+	height: 1570px !important;
+}
+.row .one .trungtamone .row .col-12 h4{
+	/*background: yellow !important;*/
+	display: block;
+	/*font-size: 25px;*/
+	color: #1a274e;
+    font-weight: 700;
+    font-family: Montserrat,sans-serif;
+}
+
+.row .one .trungtamone .row .col-12 a{
+	/*background: green !important;*/
+	font-size: 17px;
+    font-weight: 600;
+    color: #0b85ec;
+    text-decoration: none;
+    /*padding: 0px !important;*/
+    margin-left: 100px;
+}
+.row .one .trungtamone .box{
+	height: 1px;
+	width: 100%;
+	background: gray;
+
+}
+.row .col-10 a,
+.row .col-2 a  {
+	text-decoration: none !important;  
+	font-weight: bold;
+	font-size: 15px;
+	  color: #2d3954!important;
+	/*color: black;*/
+}
+form .form-group button{
+	background:  #2944c1 !important;
+	height: 50px;
+}
+form .form-group button:hover{
+	background: green !important;
+}
+.container .row .icon1{
+	background: gray !important
+}
+.container .row .icon1:hover{
+	background: green !important
+}
+.container .row .icon2{
+	background: green !important
+}
+.container .row .col-8 .item{
+	/*background: red !important;*/
+	border-radius: 10px;
+}
+.container .row  .col-4 h4 .application{
+	/*background: red !important;*/
+	text-decoration: none;
+	color: #2d4379;
+	font-size: 15px;
+}
+.container .row  .col-4 .drive{
+	font-weight: 600 !important;
+    font-size: 14px !important;
+    color: #5c75a2 
+}
+.container .row  .col-2 h4 .application2{
+	/*background: red !important;*/
+	text-decoration: none;
+	color: #2d4379 !important;
+	font-size: 15px;
+}
+.container .row  .col-2 .drive2{
+	font-weight: 600 !important;
+    font-size: 14px !important;
+    color: #5c75a2 
+}
+.container .row  .col-2 form .form-group .viewjob{
+	background: white !important;
+	border-radius: 20px;
+	width: 110px;
+}
+.container .row  .col-2 form .form-group .viewjob:hover{
+	background:green !important;
+}
+    
+.container .row .vuong{
+	background: white;
+	height: 30px;
+	width: 30px;
+	float: left;
+	border-radius: 5px;
+	margin: 0;
+	padding: 0;
+}
+.container .row .vuong1{
+	/*background: blue;*/
+	margin: 0 10px;
+}
+.container .row .vuong:hover{
+	background: green;
+}
+.container .stt{
+	/*background: gray !important;*/
+	padding-left: 235px;
+}
+.container .row .tienlui{
+	/*background: blue !important;*/
+}
+.container-fluid .subscribe{
+	height: 250px !important;
+	background: #2944c1 !important;
+}
+.container-fluid .subscribe .row .col-12 h4,
+.container-fluid .subscribe .row .col-12 p{
+	color: white;
+	margin-top: 40px;
+}
+.container-fluid .subscribe .row .col-12 form .form-group input{
+	color: blue !important;
+	border-radius: 5px;
+	height: 60px;
+	width: 450px !important;
+	margin-left: 400px; 
+}
+.container-fluid .subscribe .row .col-12 .here{
+	height: 60px;
+	width: 80px;
+	background: blue;
+	border-radius: 5px;
+}
+.container-fluid .subscribe .row .col-12 .here a img{
+	border-radius: 5px;
+}
+.container-fluid .last{
+	height: 240px;
+}
+.container-fluid .cuoi{
+	   background: black!important;
+	   height: 300px;
+}
+.container-fluid .last .row .col-2 h4{
+	color: #fff !important;
+    text-transform: uppercase;
+        font-weight: 600;
+    /*font-size: 15px;*/
+    letter-spacing: 0;
+}
+.container-fluid .last .row .col-2 a p{
+       color: #6e7598;
+    font-size: 13px;
+    font-weight: 600;
+}
+.container-fluid .last .col-4 p{
+	/*background: yellow!important;*/
+	    color: #6e7598;
+    font-size: 18px;
+}
+.cuoi .box{
+	height: 0.5px;
+	width: 100%;
+	background: white;
+}
+.container-fluid .coppyright p{
+	/*background: red !important;*/
+	text-align: center;
+	margin: 0 auto;
+	color: #6e7598;
+}
